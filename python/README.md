@@ -1,6 +1,6 @@
 # Gilded Rose starting position in Python
 
-For exercise instructions see [top level README](../README.md)
+For exercise instructions see [top level README](../info/README.md)
 
 Suggestion: create a python virtual environment for this project. See the [documentation](https://docs.python.org/3/library/venv.html)
 
